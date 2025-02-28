@@ -1,4 +1,5 @@
 User Authentication API
+
 This project is a user authentication system built with Node.js, Express, MongoDB, and bcrypt for secure password hashing. It includes user registration and login functionality with proper validation and error handling.
 
 Features
